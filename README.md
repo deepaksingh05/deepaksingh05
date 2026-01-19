@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**deepaksingh05/deepaksingh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>	•	Building and maintaining Drupal 10 enterprise websites<br>	•	Performance optimization using Cloudflare CDN & caching strategies<br>	•	Advanced GA4 & GTM tracking (registrations, conversions, cross-platform integrations)<br>	•	Integrating Elastic / Solr search and improving search relevance<br>	•	Leading a team across Drupal backend, frontend, QA, and React-based components<br><br>👯 I’m looking to collaborate on<br>	•	Complex Drupal architecture and custom module development<br>	•	Search integrations (Solr, Elastic Enterprise Search)<br>	•	Analytics-driven development (GA4, GTM, data accuracy & attribution)<br>	•	Drupal + React hybrid solutions<br>	•	Improving DX, performance, and scalability of large Drupal platforms<br><br>🤝 I’m looking for help with<br>	•	Deepening advanced React patterns for production-grade apps<br>	•	Best practices around Drupal + headless / decoupled setups<br>	•	Real-world use cases of AI in content workflows (summarization, accessibility, automation)<br><br>🌱 I’m currently learning<br>	•	React fundamentals → advanced patterns (hooks, state management, performance)<br>	•	Preparing for the Acquia Certified Drupal Developer exam<br>	•	Advanced GA4 debugging & data discrepancy resolution<br>	•	Better frontend–backend coordination for analytics and personalization<br><br><br>💬 Ask me about<br>	•	Drupal 10 (custom modules, entities, APIs, caching, config management)<br>	•	Solr & Elastic search implementations<br>	•	GA4, GTM, conversion tracking, and debugging analytics issues<br>	•	Cloudflare caching rules & performance tuning<br>	•	Mentoring developers and building high-performing teams<br><br>⚡ Fun fact<br>I enjoy turning complex technical problems into simple, maintainable solutions—and I’m just as passionate about mentoring teammates as I am about writing clean code.
 
 
@@ -23,11 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=deepaksingh05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
